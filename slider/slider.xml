@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slider>
+        <effect>random</effect>
+        <slices>15</slices>
+        <boxcols>8</boxcols>
+        <boxrows>4</boxrows>
+		<animspeed>500</animspeed>
+		<pausetime>3500</pausetime>
+		<directionnav>true</directionnav>
+		<directionnavhide>true</directionnavhide>
+		<controlnav>true</controlnav>
+		<keyboardnav>true</keyboardnav>
+		<pauseonhover>true</pauseonhover>
+		<width>556</width>
+		<height>200</height>
+		<dirnavpos>40</dirnavpos>
+		<ctrlnavhorizpos>right</ctrlnavhorizpos>
+		<ctrlnavpos>74</ctrlnavpos>
+</slider>
