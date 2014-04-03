@@ -21,7 +21,7 @@
  * SOFTWARE.
  * ...........................................................................
  *
- * @package   Postaldeliv
+ * @package   Slider
  * @author    Paul MORA
  * @copyright Copyright (c) 2012-2014 EURL ébewè - www.ebewe.net - Paul MORA
  * @license   MIT license
